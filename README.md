@@ -201,25 +201,6 @@ Currently working as an **AI Engineer at Agent Ops Labs**, gaining hands-on expe
 Contributing to **AI-based projects** while developing strong technical, problem-solving, collaboration, and teamwork skills.
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriyachary0810-collab&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyachary0810-collab&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shriya08/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
----
 
 ## 💡 My Developer Journey
 
