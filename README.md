@@ -201,6 +201,9 @@ Currently working as an **AI Engineer at Agent Ops Labs**, gaining hands-on expe
 Contributing to **AI-based projects** while developing strong technical, problem-solving, collaboration, and teamwork skills.
 
 ---
+⚡ **Fun fact:** I love exploring how Agentic Engineering and MLOps can completely automate and transform everyday e-commerce processes.
+
+---
 
 ## 💡 My Developer Journey
 
