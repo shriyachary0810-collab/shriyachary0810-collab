@@ -69,6 +69,38 @@ A centralized application designed to simplify and manage the employee onboardin
 
 ---
 
+## 🛠️ Skills
+
+### 💻 Programming & Development
+
+* **Python**
+* **FastAPI**
+* **React.js**
+* **REST APIs**
+
+### 🤖 AI & Automation
+
+* **Artificial Intelligence (AI)**
+* **Prompt Engineering**
+* **AI Agents**
+* **Generative AI**
+
+### ⚙️ DevOps & MLOps
+
+* **DevOps**
+* **MLOps**
+* **Docker**
+* **Git**
+* **GitHub**
+
+### ☁️ Cloud & Tools
+
+* **AWS**
+* **Cloud Computing**
+* **Low-Code & No-Code Tools**
+
+---
+
 ## 📚 Currently Learning
 
 ```text
@@ -101,6 +133,21 @@ MLOps
 * MLOps
 * Automation
 * SaaS Applications
+
+---
+## 🏆 Honors & Awards
+
+### 🧘‍♀️ Yoga Competition
+
+**Issued by:** Principal
+**Date:** November 2016
+**Associated with:** St. Mary's Vidyaneketan High School
+
+* Participated in a **Yoga Competition** during my school years.
+* Received recognition for my **performance, dedication, and discipline**.
+* Developed **concentration, flexibility, confidence, and focus**.
+* Strengthened my ability to perform confidently in a **competitive environment**.
+* This experience also encouraged me to maintain a **healthy and disciplined lifestyle**.
 
 ---
 
