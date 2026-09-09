@@ -39,14 +39,45 @@ Working on AI-based projects and gaining hands-on experience with:
 
 ## 🎓 Education
 
-### Loyola Academy, Hyderabad
+### 🏫 Loyola Academy, Hyderabad
 
 **Bachelor's Degree – Computer Applications**
-**2023 – 2026**
+📅 June 2023 – April 2026
+🎯 **Grade: 93%**
 
-* Grade: **93%**
-* Developed knowledge in programming, databases, computer applications, and business management.
-* Gained practical exposure to Python, AI, Cloud Computing, DevOps, and Generative AI.
+**Activities & Societies:** YOGA, Bharathanatyam
+
+* Completed my undergraduate degree in **Computer Applications** with a strong academic record.
+* Developed knowledge in **Computer Applications, Database Management Systems, Programming Fundamentals, Accounting, and Business Management**.
+* Gained practical experience in **Python Programming, Artificial Intelligence, Cloud Computing, DevOps, and Generative AI** through hands-on learning and projects.
+* Passionate about leveraging **technology to solve real-world business challenges**.
+
+---
+
+### 🏫 St. Francis College for Women
+
+**Intermediate – CEC**
+📅 June 2021 – March 2023
+🎯 **Grade: 78.6%**
+
+* Completed my Intermediate education with a strong academic foundation.
+* Developed essential **communication, teamwork, analytical, and problem-solving skills**.
+* Built a foundation for higher education and my professional career.
+
+---
+
+### 🏫 St. Mary's Vidyaniketan High School
+
+**SSC**
+📅 June 2019 – March 2020
+🎯 **Grade: 97%**
+
+**Activities & Societies:** YOGA, Karate, Softball
+
+* Completed my schooling with an excellent **97% academic score**.
+* Developed a strong foundation in **academics, discipline, problem-solving, and extracurricular activities**.
+* Participated in **Yoga, Karate, and Softball**, strengthening teamwork, confidence, discipline, and overall personal development.
+
 
 ---
 
@@ -148,6 +179,26 @@ MLOps
 * Developed **concentration, flexibility, confidence, and focus**.
 * Strengthened my ability to perform confidently in a **competitive environment**.
 * This experience also encouraged me to maintain a **healthy and disciplined lifestyle**.
+
+---
+
+## 🏢 Organizations
+
+### 🤖 Agent Ops Labs
+
+**AI Engineer** · August 2026 – Present
+
+Currently working as an **AI Engineer at Agent Ops Labs**, gaining hands-on experience in:
+
+* 🐍 **Python**
+* 🤖 **Artificial Intelligence**
+* ✨ **Generative AI**
+* 🔌 **APIs**
+* ⚙️ **Automation**
+* 🧠 **Prompt Engineering**
+* 🚀 **DevOps & MLOps**
+
+Contributing to **AI-based projects** while developing strong technical, problem-solving, collaboration, and teamwork skills.
 
 ---
 
