@@ -207,7 +207,7 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ---
 
-(https://komarev.com/ghpvc/?username=shriyachary0810-collab)
+![](https://komarev.com/ghpvc/?username=shriyachary0810-collab)
 
 ---
 
