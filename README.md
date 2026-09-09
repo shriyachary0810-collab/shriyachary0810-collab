@@ -205,6 +205,9 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ---
 
+![](https://komarev.com/ghpvc/?username=shriyachary0810-collab)
+
+---
 ## 💡 My Developer Journey
 
 > **Learn → Practice → Build → Debug → Improve → Repeat**
