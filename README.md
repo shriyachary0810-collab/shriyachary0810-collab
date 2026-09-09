@@ -207,9 +207,11 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ---
 #profile Views
+
 ![](https://komarev.com/ghpvc/?username=shriyachary0810-collab)
 
 #GitHub stats
+
 ![GitHub Stats](https://ghstats.dev/api/card?username=shriyachary0810-collab)
 
 ---
