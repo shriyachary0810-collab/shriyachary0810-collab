@@ -223,3 +223,23 @@ Contributing to **AI-based projects** while developing strong technical, problem
 I believe that strong fundamentals, continuous learning, and hands-on projects are the foundation for becoming a better developer.
 
 ### 🚀 Let's Build Something Amazing Together!
+
+---
+
+---
+
+## 💙 Thank You for Visiting My Profile!
+
+<p align="center">
+  <i>✨ Thanks for stopping by! Feel free to explore my repositories and connect with me. ✨</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Happy Coding! 🚀</b>
+</p>
+
+---
