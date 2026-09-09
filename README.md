@@ -200,26 +200,10 @@ Currently working as an **AI Engineer at Agent Ops Labs**, gaining hands-on expe
 
 Contributing to **AI-based projects** while developing strong technical, problem-solving, collaboration, and teamwork skills.
 
----
-
-### 📊 GitHub Stats & Streak
-
-<div align="center">
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriyachary0810-collab&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shriyachary0810-collab&theme=dark)](https://git.io/streak-stats)
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyachary0810-collab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
+
 ⚡ **Fun fact:** I love exploring how Agentic Engineering and MLOps can completely automate and transform everyday e-commerce processes.
-
----
-
-![](https://komarev.com/ghpvc/?username=shriyachary0810-collab)
 
 ---
 ## 💡 My Developer Journey
