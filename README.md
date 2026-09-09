@@ -202,6 +202,16 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ---
 
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" /> </p>
+
+🔗 Connect With Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/shriya08/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+
+---
+
 ## 💡 My Developer Journey
 
 > **Learn → Practice → Build → Debug → Improve → Repeat**
