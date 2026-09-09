@@ -206,6 +206,11 @@ Contributing to **AI-based projects** while developing strong technical, problem
 ⚡ **Fun fact:** I love exploring how Agentic Engineering and MLOps can completely automate and transform everyday e-commerce processes.
 
 ---
+
+(https://komarev.com/ghpvc/?username=shriyachary0810-collab)
+
+---
+
 ## 💡 My Developer Journey
 
 > **Learn → Practice → Build → Debug → Improve → Repeat**
